@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/custom_bg.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NewsApp/app/src/main/res/drawable/drawable_divider.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NewsApp/app/src/main/res/layout/activity_main2.xml" value="0.13027618551328818" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NewsApp/app/src/main/res/layout/content_main.xml" value="0.19972826086956522" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NewsApp/app/src/main/res/layout/news_item.xml" value="0.264" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NewsApp/app/src/main/res/layout/settings_activity.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/NewsApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.13538461538461538" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
